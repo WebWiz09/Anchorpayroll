@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --anchor-orange: #FF6B2C;
+  --anchor-navy: #0F1724;
+  --anchor-accent: #00C896;
+}
+
+body {
+  font-family: Inter, sans-serif;
+  background: linear-gradient(180deg, #ffffff 0%, #f8f9fb 100%);
+  color: var(--anchor-navy);
+}
