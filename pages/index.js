@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import '../styles/globals.css';
+import '../globals.css';
 
 
 export default function Home() {
